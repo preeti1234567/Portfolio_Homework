@@ -1,4 +1,4 @@
-# Portfolio_Homework
+# Portfolio Homework
 The purpose of this assignment was to make responsive portfolio for mobile and tablet using Bootstrap CSS Framework. This was created only using bootstrape framework and no inline styling. 
  
 
@@ -22,7 +22,7 @@ Creating portfolio for myself which will work on both mobile and tablets. It has
 By default home page is display. To view other pages use the navigation link on the top.
 
 
-Link [title]  (https://preeti1234567.github.io/Portfolio_Homework/)
+My Portfolio Website Link ->  (https://preeti1234567.github.io/Portfolio_Homework/)
 
 ![Snapshot](index_mobile.png)
 ![Snapshot](index_tablet.png)
