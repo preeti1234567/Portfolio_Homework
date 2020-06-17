@@ -24,9 +24,14 @@ We are making a responsive Portfolio for mobile and tablet using Bootstrap CSS F
 *--portfolio.html*
 
 
-Link [title]  ()
+Link [title]  (https://preeti1234567.github.io/Portfolio_Homework/)
 
-![Snapshot](About_memobile.png)
+![Snapshot](index_mobile.png)
+![Snapshot](index_tablet.png)
+![Snapshot](contact_mobile.png)
+![Snapshot](contact_tablet.png)
+![Snapshot](portfolio_mobile.png)
+![Snapshot](portfolio_tablet.png)
 
 
 
