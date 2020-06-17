@@ -12,15 +12,25 @@ We are making a responsive Portfolio for mobile and tablet using Bootstrap CSS F
 
 3. Some internal styles
 
-Link [title]  (sfdsdfdf)
+
+##  Details of Project
+
+### It has 3 files named
+
+*--index.html*
+
+*--contact.html* 
+
+*--portfolio.html*
+
+
+Link [title]  ()
 
 ![Snapshot](About_memobile.png)
 
-### Instruction
 
-* Using Bootstrap, create a layout that looks like:
 
-  ![text-layout activity design](About_memobile.png)
+ 
 
 
 
